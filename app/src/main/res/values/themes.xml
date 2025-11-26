@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.FrecuenzyScanner" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
